@@ -4,7 +4,7 @@
         <fullName>Standard</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>nick@lpl.com</assignedTo>
+            <assignedTo>nick@devops_prod.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -23,7 +23,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>nick@lpl.com</assignedTo>
+            <assignedTo>nick@devops_prod.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -61,7 +61,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>nick@lpl.com</assignedTo>
+            <assignedTo>nick@devops_prod.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -80,7 +80,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>nick@lpl.com</assignedTo>
+            <assignedTo>nick@devops_prod.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.Type</field>
@@ -90,4 +90,3 @@
         </ruleEntry>
     </assignmentRule>
 </AssignmentRules>
-//Updated Case Reference Member
